@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCode", "AspNetCode.csproj", "{679A131C-8156-483E-B6F6-D415FC6CB838}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wwwroot", "wwwroot\wwwroot.csproj", "{BAE6982C-8D90-480C-8CB0-40A32E9F4DED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{679A131C-8156-483E-B6F6-D415FC6CB838}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{679A131C-8156-483E-B6F6-D415FC6CB838}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{679A131C-8156-483E-B6F6-D415FC6CB838}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{679A131C-8156-483E-B6F6-D415FC6CB838}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAE6982C-8D90-480C-8CB0-40A32E9F4DED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAE6982C-8D90-480C-8CB0-40A32E9F4DED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAE6982C-8D90-480C-8CB0-40A32E9F4DED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAE6982C-8D90-480C-8CB0-40A32E9F4DED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
